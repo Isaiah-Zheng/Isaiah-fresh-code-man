@@ -15,3 +15,4 @@ print(factorial(3))
 print(fibonacci(6))
 
 #你一直在位這個github做了一些時間的浪費，不要再這樣了。
+#你一直在位這個github做了一些時間的浪費，不要再這樣了。你終於知道去改默認分支了
