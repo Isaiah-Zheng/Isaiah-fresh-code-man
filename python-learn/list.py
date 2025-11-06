@@ -50,5 +50,6 @@ def lis_shift(lis):
     lis[len(lis)-1]=a
     print(lis)
 lis_shift([1,2])
+#
 
 
